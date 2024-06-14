@@ -29,8 +29,6 @@ precio_final = valor_producto + precio_iva
 print("El precio del IVA es:", precio_iva)
 print("El precio final es:", precio_final)
 
-
-
 ##De dos números, saber cual es el mayor.
 # Definir dos números
 numero_uno = 45
