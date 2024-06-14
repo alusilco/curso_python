@@ -14,3 +14,11 @@ nueva_cadena2 = cadena1[:2] + cadena2[2:]
 # Mostrar ambas cadenas con un espacio entre ellas
 resultado = nueva_cadena1 + " " + nueva_cadena2
 print("Resultado:", resultado)
+
+
+
+#cadena = "Hola Mundo"
+#print(cadena[::]) #copia
+#print(cadena[2::]) # la Mundo
+#print(cadena[2:5:])#la
+#print(cadena[1::2]) #oaMno
